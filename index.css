@@ -1,0 +1,5 @@
+.btn {
+    color: white;
+    background: rgb(6,242,232);
+    background: linear-gradient(90deg, rgba(6,242,232,0.8099614845938375) 10%, rgba(113,190,53,0.896796218487395) 68%);
+}
